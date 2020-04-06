@@ -13,14 +13,14 @@
 
 ### Features
 
-* **bazel:** enable ivy template type-checking in g3 ([#35672](https://github.com/angular/angular/issues/35672)) ([8f5b7f3](https://github.com/angular/angular/commit/8f5b7f3))
+* **bazel:** enable ivy template type-checking in g3 
 
 
 ### Performance Improvements
 
-* **core:** add micro benchmark for destroy hook invocation ([#35784](https://github.com/angular/angular/issues/35784)) ([0653db1](https://github.com/angular/angular/commit/0653db1))
+* **core:** add micro benchmark for destroy hook invocation 
 
 
 ### Bug Fixes
 
-* **animations:** Remove ɵAnimationDriver from private exports ([#35690](https://github.com/angular/angular/issues/35690)) ([ec789b0](https://github.com/angular/angular/commit/ec789b0))
+* **animations:** Remove ɵAnimationDriver from private exports 
