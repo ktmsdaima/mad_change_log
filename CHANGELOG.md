@@ -4,11 +4,15 @@
 ### Release Highlights
 
 * performance optimizations
+* report progress features
 
 
 ### Features
 
-
+* **toe-report progress:** 
+  * close button added (Otgoo)
+  * 5 min max tmeout added (Otgoo)
+  * disable generate button during progress (Otgoo)
 
 ### Performance Improvements
 
