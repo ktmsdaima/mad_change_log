@@ -3,8 +3,8 @@
 
 ### Release Highlights
 
-* performance optimizations
 * report progress features
+* performance optimizations
 
 
 ### Features
