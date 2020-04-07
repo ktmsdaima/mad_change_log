@@ -8,14 +8,12 @@
 
 ### Features
 
-* **bazel:** enable ivy template type-checking in g3 
 
 
 ### Performance Improvements
 
-* **core:** initial load time decreased
+* **core:** initial load time decreased (Otgoo)
 
 
 ### Bug Fixes
 
-* **animations:** Remove ɵAnimationDriver from private exports 
