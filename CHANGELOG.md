@@ -1,5 +1,5 @@
 <a name="1.0.110"></a>
-# [1.0.110](https://demo.interval-soft.com/) (2020-04-07)
+# [1.0.110](https://demo.interval-soft.com/) (2020-04-08)
 
 ### Release Highlights
 
