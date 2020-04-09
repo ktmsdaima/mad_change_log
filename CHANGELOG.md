@@ -13,6 +13,9 @@
   * close button added (Otgoo)
   * 5 min max tmeout added (Otgoo)
   * disable generate button during progress (Otgoo)
+  
+* **discard function:** 
+  * implemented to all forms of Linked table (Daima)
 
 ### Performance Improvements
 
